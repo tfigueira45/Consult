@@ -1,0 +1,62 @@
+body * {
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+img {
+    border-radius: 50%;
+    height: 15%;
+    width: 15%;
+}
+
+.enterCode {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.enterCode button {
+    margin-top: 15px;
+    width: 70%;
+}
+
+.result {
+    margin-top: 20px;
+    width: 450px;
+}
+
+table {
+    border: 1px solid rgb(68, 66, 66);
+    border-spacing: 0;
+}
+
+tbody {
+    border: none;
+    border-spacing: 0;
+}
+
+tr {
+    width: 450px;
+}
+
+td, th{
+    width: 150px;
+    padding: 5px;
+    padding-right: 20px;
+}

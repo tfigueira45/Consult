@@ -18,6 +18,23 @@
             <div class="result"></div>
         </section>
     </main>
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-app.js";
+        import {  getDatabase, ref, query, orderByChild, equalTo, onValue } from 'https://www.gstatic.com/firebasejs/10.11.0/firebase-database.js';
+        
+        const firebaseConfig = {
+          apiKey: "AIzaSyBl4wI4-rcsCMfWPfYoY0hE-7ns-8klDQE",
+          authDomain: "consult-10fd4.firebaseapp.com",
+          projectId: "consult-10fd4",
+          storageBucket: "consult-10fd4.appspot.com",
+          messagingSenderId: "624825007539",
+          appId: "1:624825007539:web:6c11d9eebe21c74039dfc6",
+          measurementId: "G-L3LSS32RH8"
+        };
+      
+        const app = initializeApp(firebaseConfig);
+        const analytics = getDatabase(app);
+    </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
     <script src="./main.js"></script>
 </body>

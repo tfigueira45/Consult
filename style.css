@@ -64,5 +64,6 @@ td, th{
 @media screen and (max-width: 700px) {
     .result, tr {
         width: 100vw;
+        margin: 0 10px 0;
     }
 }

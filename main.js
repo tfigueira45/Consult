@@ -1,14 +1,11 @@
 const codeInput = document.querySelector("#code");
 
 function getValue(cd) {
-    fetch("Lista de Produtos.xlsx")
-        .then(response => response.arrayBuffer())
+    fetch("list.json")
+        .then(response => response.json())
         .then(data => {
-            var workbook = XLSX.read(new Uint8Array(data), {type: 'array'});
-            var sheet_name_list = workbook.SheetNames;
-            var xlData = XLSX.utils.sheet_to_json(workbook.Sheets[sheet_name_list[0]]);
-            console.log(xlData);
-            xlData.forEach(item => {
+            console.log(data);
+            data.forEach(item => {
     
                 if(item["Código"] == cd) {
                     const template = `

@@ -1,0 +1,220 @@
+[
+    {
+     "Produto": "DISJUNTOR UNI 32A BCO DIN TRAMONTI",
+     "Código": 1132,
+     "Preço": 11,
+     "Unidade": "UN",
+     "Estoque": 11
+    },
+    {
+     "Produto": "DISJUNTOR UNI 40A BCO DIN JNG",
+     "Código": 1140,
+     "Preço": 11,
+     "Unidade": "UN",
+     "Estoque": 11
+    },
+    {
+     "Produto": "DISJUNTOR UNI 25A BCO DIN TRAMONTI",
+     "Código": 1125,
+     "Preço": 10,
+     "Unidade": "UN",
+     "Estoque": 12
+    },
+    {
+     "Produto": "DISJUNTOR UNI 16A BCO DIN TRAMONTI",
+     "Código": 1116,
+     "Preço": 10,
+     "Unidade": "UN",
+     "Estoque": 10
+    },
+    {
+     "Produto": "DISJUNTOR BIP 63A BCO DIN TRAMO.C6",
+     "Código": 1263,
+     "Preço": 35,
+     "Unidade": "UN",
+     "Estoque": 6
+    },
+    {
+     "Produto": "DISJUNTOR BIP 32A BCO ELGIN C6",
+     "Código": 1232,
+     "Preço": 30,
+     "Unidade": "UN",
+     "Estoque": 6
+    },
+    {
+     "Produto": "DISJUNTOR BIP 40A BCO ELGIN C6",
+     "Código": 1240,
+     "Preço": 37,
+     "Unidade": "UN",
+     "Estoque": 6
+    },
+    {
+     "Produto": "INTER.1SIM.2X4 06A BC ARIA TRAMONTINAC20",
+     "Código": 2100,
+     "Preço": 9,
+     "Unidade": "UN"
+    },
+    {
+     "Produto": "INTER.1SIM+1TOM.2X4 10A BC ARIA TRAMO.EN",
+     "Código": 2101,
+     "Preço": 11,
+     "Unidade": "UN"
+    },
+    {
+     "Produto": "TOMADA DUPLA 2X4 10A BC ARIA TRAMONT.EN",
+     "Código": 2200,
+     "Preço": 12,
+     "Unidade": "UN"
+    },
+    {
+     "Produto": "TOMADA 2X4 10A BC ARIA TRAMONTINA EN C20",
+     "Código": 2201,
+     "Preço": 9,
+     "Unidade": "UN",
+     "Estoque": 20
+    },
+    {
+     "Produto": "SOQUETE NYLON C\/RAB.PT FOXLUX",
+     "Código": 3001,
+     "Preço": 2.5,
+     "Unidade": "UN",
+     "Estoque": 47
+    },
+    {
+     "Produto": "PLAFON PP BOCAL PORC.BC100W FOXC10",
+     "Código": 3002,
+     "Preço": 8,
+     "Unidade": "UN",
+     "Estoque": 10
+    },
+    {
+     "Produto": "LAMPADA LED 20W 6500K KIAN",
+     "Código": 3320,
+     "Preço": 9,
+     "Unidade": "UN",
+     "Estoque": 6
+    },
+    {
+     "Produto": "LAMPADA LED 9,0W 6500K ELGIN C10",
+     "Código": 3309,
+     "Preço": 6,
+     "Unidade": "UN",
+     "Estoque": 10
+    },
+    {
+     "Produto": "LAMPADA LED 12W 6500K KIAN C10",
+     "Código": 3312,
+     "Preço": 7,
+     "Unidade": "UN",
+     "Estoque": 10
+    },
+    {
+     "Produto": "LAMPADA LED 15W 6500K KIAN C10",
+     "Código": 3315,
+     "Preço": 8,
+     "Unidade": "UN",
+     "Estoque": 10
+    },
+    {
+     "Produto": "CABO FLEX. 1,5MM VM.CORFIO C100",
+     "Código": "41VM",
+     "Preço": 1.8,
+     "Unidade": "RL"
+    },
+    {
+     "Produto": "CABO FLEX. 1,5MM AZ.CORFIO",
+     "Código": "41AZ",
+     "Preço": 1.8,
+     "Unidade": "RL"
+    },
+    {
+     "Produto": "CABO FLEX. 2,5MM PT.CORFIO C100",
+     "Código": "42PT",
+     "Preço": 2.75,
+     "Unidade": "RL"
+    },
+    {
+     "Produto": "CABO FLEX. 2,5MM VM.CORFIO C100",
+     "Código": "42VM",
+     "Preço": 2.75,
+     "Unidade": "RL"
+    },
+    {
+     "Produto": "CABO FLEX. 2,5MM AZ.CORFIO C100",
+     "Código": "42AZ",
+     "Preço": 2.75,
+     "Unidade": "RL"
+    },
+    {
+     "Produto": "CABO FLEX. 2,5MM BC.CORFIO C100",
+     "Código": "42BC",
+     "Preço": 2.75,
+     "Unidade": "RL"
+    },
+    {
+     "Produto": "CABO FLEX. 4,0MM PT.CORFIO C100",
+     "Código": "43PT",
+     "Preço": 3.75,
+     "Unidade": "RL"
+    },
+    {
+     "Produto": "CABO FLEX. 4,0MM VM.CORFIO C100",
+     "Código": "43VM",
+     "Preço": 3.75,
+     "Unidade": "RL"
+    },
+    {
+     "Produto": "QUADRO DISJ.PVC EMB. 6PT\/8BC FUME",
+     "Código": 5008,
+     "Preço": 30,
+     "Unidade": "UN",
+     "Estoque": 1
+    },
+    {
+     "Produto": "QUADRO DISJ.PVC EMB.12PT\/16BC FUME",
+     "Código": 5016,
+     "Preço": 50,
+     "Unidade": "UN",
+     "Estoque": 1
+    },
+    {
+     "Produto": "CONECTOR DERIVACAO PERF.CDP70",
+     "Código": 6001,
+     "Preço": 14,
+     "Unidade": "UN"
+    },
+    {
+     "Produto": "FITA ISOLANTE 5MX18MM IMPERI.3M C10",
+     "Código": 6010,
+     "Preço": 3.5,
+     "Unidade": "UN",
+     "Estoque": 10
+    },
+    {
+     "Produto": "FITA ISOLANTE 5MX19MM PVC FOXLUX C10",
+     "Código": 6011,
+     "Preço": 2.5,
+     "Unidade": "UN",
+     "Estoque": 8
+    },
+    {
+     "Produto": "MANGUEIRA CORR 3\/4X50M AM.KRONA",
+     "Código": 6020,
+     "Preço": 1.5,
+     "Unidade": "RL"
+    },
+    {
+     "Produto": "MANGUEIRA CORR 3\/4X50M AM.ARQUA",
+     "Código": 6021,
+     "Preço": 1.4,
+     "Unidade": "RL",
+     "Estoque": 1
+    },
+    {
+     "Produto": "GRAMPO FIXAR FIO MIGUEL.25X30UN BC",
+     "Código": 6003,
+     "Preço": 3.5,
+     "Unidade": "PT",
+     "Estoque": 21
+    }
+]

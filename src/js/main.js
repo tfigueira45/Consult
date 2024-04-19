@@ -1,7 +1,7 @@
 const codeInput = document.querySelector("#code");
 
 function getValue(cd) {
-    fetch("list.json")
+    fetch("../src/js/list.json")
         .then(response => response.json())
         .then(data => {
             console.log(data);
@@ -54,3 +54,4 @@ window.addEventListener("keypress", (e) => {
         document.querySelector("div.enterCode button").click()
     }
 })
+

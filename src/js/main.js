@@ -1,6 +1,6 @@
 const codeInput = document.querySelector("#code");
 const resultDiv = document.querySelector("div.result");
-const isFound = false
+const isFound = false;
 
 function getValue(cd) {
     fetch("../src/js/list.json")

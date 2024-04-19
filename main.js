@@ -23,8 +23,10 @@ function getValue(cd) {
                         </table>
                     `;
                     document.querySelector("div.result").innerHTML = template
-                    
-                } 
+                } else if(data.length - 1 === data.indexOf(item)) {
+                    alert("Não foi encontrado nenhum produto com o código forncido!")
+                    codeInput.value = ""
+                }
             })
         });
 }
@@ -47,4 +49,8 @@ window.addEventListener('load', () => {
     }
 })
 
-
+window.addEventListener("keypress", (e) => {
+    if(e.key === "Enter"){
+        document.querySelector("div.enterCode button").click()
+    }
+})

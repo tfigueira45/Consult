@@ -1,4 +1,6 @@
 const codeInput = document.querySelector("#code");
+const resultDiv = document.querySelector("div.result");
+const isFound = false
 
 function getValue(cd) {
     fetch("../src/js/list.json")
@@ -22,8 +24,9 @@ function getValue(cd) {
                             </tr>
                         </table>
                     `;
-                    document.querySelector("div.result").innerHTML = template
-                } else if(data.length - 1 === data.indexOf(item)) {
+                    resultDiv.innerHTML = template
+                    isFound = !isFound 
+                } else if(data.length - 1 === data.indexOf(item) && !isFound) {
                     alert("Não foi encontrado nenhum produto com o código forncido!")
                     codeInput.value = ""
                 }
